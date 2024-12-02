@@ -9,7 +9,7 @@
 <b>git clone https://github.com/tamirlan1919/library-manager.git</b>
 Перейдите в директорию проекта:
 
-<b>cd TestJunior</b>
+<b>cd library-manager</b>
 Создайте виртуальное окружение и активируйте его:
 
 python3 -m venv .venv
